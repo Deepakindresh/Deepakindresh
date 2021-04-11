@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey Guys, this is Deepakindresh
+I'm a student at the Vellore Institute of Technology, Chennai, India. I love to build new things and my areas of intersts are Web Development, Machine Learning and Cloud computing
+
 
 <!--
 **Deepakindresh/Deepakindresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
