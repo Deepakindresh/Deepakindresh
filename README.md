@@ -18,6 +18,8 @@
 [<img src="https://simpleicons.org/icons/tensorflow.svg" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
 [<img src="https://simpleicons.org/icons/googlecloud.svg" width="50px" alt="" align="left" >](https://cloud.google.com/)
 [<img src="https://simpleicons.org/icons/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
+[<img src="https://simpleicons.org/icons/r.svg" width="50px" alt="" align="left" >](https://www.r-project.org/)
+[<img src="https://simpleicons.org/icons/octave.svg" width="50px" alt="" align="left" >](https://www.gnu.org/software/octave/index)
 
 <br />
 <br />
