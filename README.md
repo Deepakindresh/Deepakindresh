@@ -1,18 +1,25 @@
 ### Hey Guys, this is Deepakindresh
-I'm a student at the Vellore Institute of Technology, Chennai, India. I love to build new things and my areas of intersts are Web Development, Machine Learning and Cloud computing
+<p>I'm a student at the Vellore Institute of Technology, Chennai, India. I love to build new things and my areas of intersts are Web Development, Machine Learning and Cloud computing. I am currently working on various of my project ideas and will be pulling them into github soon!!</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakindresh&layout=compact&theme=radical&langs_count=10&hide=ShaderLab,LLVM)
+
+![Deepakindresh github stats](https://github-readme-stats.vercel.app/api?username=Deepakindresh&show_icons=true&theme=radical)
 
 
-<!--
-**Deepakindresh/Deepakindresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Frameworks:
+[<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left">](https://www.cplusplus.com/)
+[<img src="https://simpleicons.org/icons/c.svg" width="50px" alt="" align="left" >]()
+[<img src="https://simpleicons.org/icons/css3.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://simpleicons.org/icons/html5.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://simpleicons.org/icons/python.svg" width="50px" alt="" align="left" >](https://www.python.org/)
+[<img src="https://simpleicons.org/icons/tensorflow.svg" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
+[<img src="https://simpleicons.org/icons/googlecloud.svg" width="50px" alt="" align="left" >](https://cloud.google.com/)
+[<img src="https://simpleicons.org/icons/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
 
-Here are some ideas to get you started:
+<br />
+<br />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on:
+[<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/deepakindresh-n-a15b30193/)  
