@@ -5,6 +5,8 @@
 
 ![Deepakindresh github stats](https://github-readme-stats.vercel.app/api?username=Deepakindresh&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepakindresh&theme=radical)](https://git.io/streak-stats)
+
 
 ## Languages and Frameworks:
 [<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left">](https://www.cplusplus.com/)
