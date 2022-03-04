@@ -28,4 +28,4 @@
 <br />
 
 ## Find me on:
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/deepakindresh-n-a15b30193/)  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/deepakindresh-n-a15b30193/)  
