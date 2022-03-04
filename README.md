@@ -14,7 +14,7 @@
 [<img src="https://simpleicons.org/icons/css3.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://simpleicons.org/icons/html5.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://simpleicons.org/icons/python.svg" width="50px" alt="" align="left" >](https://www.python.org/)
-[<img src="https://simpleicons.org/icons/javascript.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" width="50px" alt="" align="left" >](https://www.javascript.com/)
 [<img src="https://simpleicons.org/icons/react.svg" width="50px" alt="" align="left" >](https://reactjs.org/)
 [<img src="https://simpleicons.org/icons/mysql.svg" width="50px" alt="" align="left" >](https://www.mysql.com/)
 [<img src="https://simpleicons.org/icons/tensorflow.svg" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
