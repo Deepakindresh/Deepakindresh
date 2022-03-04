@@ -9,19 +9,18 @@
 
 
 ## Languages and Frameworks:
-[<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left">](https://www.cplusplus.com/)
-[<img src="https://simpleicons.org/icons/c.svg" width="50px" alt="" align="left" >]()
-[<img src="https://simpleicons.org/icons/css3.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://simpleicons.org/icons/html5.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://simpleicons.org/icons/python.svg" width="50px" alt="" align="left" >](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" width="50px" alt="" align="left" >](https://www.javascript.com/)
-[<img src="https://simpleicons.org/icons/react.svg" width="50px" alt="" align="left" >](https://reactjs.org/)
-[<img src="https://simpleicons.org/icons/mysql.svg" width="50px" alt="" align="left" >](https://www.mysql.com/)
-[<img src="https://simpleicons.org/icons/tensorflow.svg" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
-[<img src="https://simpleicons.org/icons/googlecloud.svg" width="50px" alt="" align="left" >](https://cloud.google.com/)
-[<img src="https://simpleicons.org/icons/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
-[<img src="https://simpleicons.org/icons/r.svg" width="50px" alt="" align="left" >](https://www.r-project.org/)
-[<img src="https://simpleicons.org/icons/octave.svg" width="50px" alt="" align="left" >](https://www.gnu.org/software/octave/index)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="" align="left">](https://www.cplusplus.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" alt="" align="left" >]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="" align="left" >](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="" align="left" >](https://reactjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" alt="" align="left" >](https://aws.amazon.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px" alt="" align="left" >](https://cloud.google.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50px" alt="" align="left" >](https://www.r-project.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50px" alt="" align="left" >](https://go.dev/)
 
 <br />
 <br />
